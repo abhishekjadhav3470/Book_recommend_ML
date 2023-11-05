@@ -11,7 +11,7 @@
 
 
 ## and all set 
-## run app.py and enjoy !!
+## finally run application.py and enjoy !!
 
 
 # Abhishek Jadhav
