@@ -5,7 +5,7 @@
 
 ### DATASET: INSIDE data.rar file
 ### just unzip it
-### second thing is that first run Book recomender.ipynb file to make sure there must not be  any error arises.
+### second thing is that first run Book recomender.ipynb file to make sure there must not be  any error exists.
 ### then all 3 pickle file is generated , so for checking that every thing is working fine, run one.ipynb.
 
 
